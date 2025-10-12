@@ -5,4 +5,4 @@ This repo is the for small hand-on project done in kss
 all images used in project are in projectimagesfolder
 <br>
 # 1
- Both project1 .html and .css is the simple webpage recreate project to hands-on on htnml and css together. The images used in it are given in folder(1.svg,2.svg,3.svg,4.svg,microphone.jpg)
+ Both project1 .html and .css is the simple webpage recreate project to hands-on on htnml and css together. The images used in it are given in folder(pro1img1.svg,pro1img2.svg,pro1img3.svg,pro1img4.svg,microphone.jpg)
